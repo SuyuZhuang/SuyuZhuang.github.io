@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 苏苏的CodingLife</title>
-    <link>http://example.org/posts/</link>
+    <link>https://suyuzhuang.github.io/posts/</link>
     <description>Recent content in Posts on 苏苏的CodingLife</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-Hans</language>
-    <lastBuildDate>Wed, 21 Aug 2019 21:21:12 +0800</lastBuildDate>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 21 Aug 2019 21:41:27 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://suyuzhuang.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
-      <pubDate>Wed, 21 Aug 2019 21:21:12 +0800</pubDate>
+      <title>如何用hugo搭建个人博客</title>
+      <link>https://suyuzhuang.github.io/posts/%E5%A6%82%E4%BD%95%E7%94%A8higo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Wed, 21 Aug 2019 21:41:27 +0800</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
-      <description>自我介绍 我叫苏苏，本科毕业于华中科技大学土木工程学院，研究生毕业于加拿大滑铁卢大学管理学院。现在在开发岗位工作两年了。</description>
+      <guid>https://suyuzhuang.github.io/posts/%E5%A6%82%E4%BD%95%E7%94%A8higo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <description>pages 1 快速开始 1.1 开始前的准备 本地git工具 github账号 本地安装好的hugo 安装步骤如下： 我是使用的Windows 10，所以直接去到Hugo</description>
     </item>
     
   </channel>
