@@ -2,22 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>苏苏的CodingLife</title>
-    <link>http://example.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on 苏苏的CodingLife</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-Hans</language>
-    <lastBuildDate>Wed, 21 Aug 2019 21:21:12 +0800</lastBuildDate>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 21 Aug 2019 21:41:27 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
-      <pubDate>Wed, 21 Aug 2019 21:21:12 +0800</pubDate>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 21 Aug 2019 21:41:27 +0800</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
-      <description>自我介绍 我叫苏苏，本科毕业于华中科技大学土木工程学院，研究生毕业于加拿大滑铁卢大学管理学院。现在在开发岗位工作两年了。</description>
+      <guid>http://localhost:1313/about/</guid>
+      
+        <description>
+
+&lt;h1 id=&#34;自我介绍&#34;&gt;自我介绍&lt;/h1&gt;
+
+&lt;p&gt;我叫苏苏，本科毕业于华中科技大学土木工程学院，研究生毕业于加拿大滑铁卢大学管理学院。现在在开发岗位工作两年了，主要做后端开发，兼顾需求分析、数据库设计、前端页面修改、代码维护等等工作。&lt;/p&gt;
+
+&lt;h1 id=&#34;技术栈&#34;&gt;技术栈&lt;/h1&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;使用情况说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;java&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;主要使用的语言，用来开发应用的后端&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;mybatis&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;配合spring架构用来和数据库进行交互，研究过一点源码&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;spring全家桶&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;spring,springMVC,spring boot，研究过一点源码&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;python&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;用来写轻量级的工具，如数据分析、爬虫等&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+      
     </item>
     
   </channel>
